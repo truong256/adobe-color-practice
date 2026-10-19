@@ -1,0 +1,10 @@
+BÀI THỰC HÀNH ADOBE COLOR
+Quy tắc: Analogous (màu tương đồng)
+
+A: #20BFDF
+B: #208FDF
+C: #2060DF
+D: #2030DF
+E: #4020DF
+
+Link thực hành: https://color.adobe.com/create/color-wheel
