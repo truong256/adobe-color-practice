@@ -12,7 +12,7 @@ Bài thực hành lựa chọn một bảng màu theo quy tắc **Analogous (mà
 | D | `#2030DF` | Xanh lam đậm |
 | E | `#4020DF` | Tím xanh |
 
-![Bảng màu Analogous](Bai_thuc_hanh_Adobe_Color_Analogous.png)
+![Bảng màu Analogous](Bang_mau_Analogous.svg)
 
 ## Cách thực hiện trên Adobe Color
 
@@ -24,7 +24,7 @@ Bài thực hành lựa chọn một bảng màu theo quy tắc **Analogous (mà
 
 ## File bài nộp
 
-- `Bai_thuc_hanh_Adobe_Color_Analogous.png`: ảnh minh họa bảng màu đã chọn, **không phải ảnh chụp trực tiếp từ Adobe Color**.
+- `Bang_mau_Analogous.svg`: ảnh minh họa bảng màu đã chọn, **không phải ảnh chụp trực tiếp từ Adobe Color**.
 - `Ma_mau_Adobe_Color.txt`: các mã màu HEX.
 
 > Để đáp ứng đúng yêu cầu nộp ảnh chụp màn hình từ Adobe Color, cần bổ sung ảnh thật sau khi thao tác trên website.
